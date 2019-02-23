@@ -22,6 +22,8 @@ define('LARAVEL_START', microtime(true));
 */
 
 require __DIR__.'/../vendor/autoload.php';
+// require __DIR__.'/../resources/views/qianzhu/index.html';
+// require __DIR__.'/../index.php';
 
 /*
 |--------------------------------------------------------------------------
